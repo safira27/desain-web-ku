@@ -1,0 +1,33 @@
+
+
+/*img*/
+.jumbotron{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+}
+/*icon */
+.icon{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.icon li{
+    display: inline-block;
+}
+.icon li a{
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+}
+.icon li a:hover{
+    transform:scale(1.2);
+}
+/*kolom penjelasan*/
+
+
+
+

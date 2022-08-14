@@ -1,0 +1,48 @@
+.navigasi ul li a{
+    float: right;
+}
+.navigasi ul li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+}
+.navigasi1{
+    display: block;
+    text-align: left;
+    align-items: center;
+    text-decoration: none;
+}
+.navigasi li a:hover{
+    background-color:chocolate;
+
+}
+.navigasi{
+    width: 100%;
+    background-color:whitesmoke;
+}
+.nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.right{
+    text-align: left;
+}
+.nav li a {
+    display:inline-block ;
+    padding: 0;
+    color: black; 
+    text-decoration: none;
+}
+.nav li a:hover{
+    transform:scale(1.2);
+}
+.footer{
+    background-color: chocolate;
+    padding: 20PX;
+    margin: 20PX;
+    text-align: center;
+}
